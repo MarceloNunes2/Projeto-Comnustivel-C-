@@ -1,0 +1,10 @@
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.csproj.AssemblyReference.cache
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.Form1.resources
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.csproj.GenerateResource.cache
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\bin\Debug\Combustivel.exe.config
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\bin\Debug\Combustivel.exe
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\bin\Debug\Combustivel.pdb
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.exe
+C:\Users\Marcelo\Desktop\Projetos\Combustivel\Combustivel\obj\Debug\Combustivel.pdb
