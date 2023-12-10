@@ -73,8 +73,7 @@ namespace Combustivel
 
         private void cmbCombustivel_SelectedIndexChanged(object sender, EventArgs e)
         {
-            // Este método foi referenciado erroneamente como comboBox1_SelectedIndexChanged_1 no Designer.
-            // Renomeamos para cmbCombustivel_SelectedIndexChanged.
+            
         }
     }
 }
